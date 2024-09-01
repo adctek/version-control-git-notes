@@ -30,7 +30,7 @@ Cloning into 'new-folder-name'...
 
 # Working with Remotes
 
-## Showing remotes
+## Showing Remotes
 
 To list the shortnames of each remote handle use `git remote`
 
